@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task01.Logic
+namespace Task01.Logic.Rafactoring
 {
     public class ElementChangeEventArgs<T>:EventArgs
     {

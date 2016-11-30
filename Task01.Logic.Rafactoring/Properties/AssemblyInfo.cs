@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Task01.Extensions")]
+[assembly: AssemblyTitle("Task01.Logic.Rafactoring")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Task01.Extensions")]
+[assembly: AssemblyProduct("Task01.Logic.Rafactoring")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3cb545c6-a377-4810-a392-aa858f3a6fee")]
+[assembly: Guid("9fd0e9b4-d515-44ea-a876-d68ea8a6e848")]
 
 // Version information for an assembly consists of the following four values:
 //

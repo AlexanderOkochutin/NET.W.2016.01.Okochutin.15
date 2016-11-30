@@ -23,7 +23,6 @@ namespace ConsoleApplication1
             {
                 testInt32Default.Remove(item);
             }
-            testInt32Default.Remove(99);
             Console.WriteLine($"Is empty - {testInt32Default.IsEmpty}");
             //
 

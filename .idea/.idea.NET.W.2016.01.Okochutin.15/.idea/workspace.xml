@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe221546-4292-4cce-96e8-567cb211b157" name="Default" comment="" />
+    <ignored path="NET.W.2016.01.Okochutin.15.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="NET.W.2016.01.Okochutin.15" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../Task02.ConsoleTests/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="43" />
+              <folding>
+                <marker date="1480260920572" expanded="true" signature="6:67" ph="..." />
+                <marker date="1480260920572" expanded="true" signature="98:3007" ph="{...}" />
+                <marker date="1480260920572" expanded="true" signature="118:3005" ph="{...}" />
+                <marker date="1480260920572" expanded="true" signature="164:2632" ph="{...}" />
+                <marker date="1480260920572" expanded="true" signature="1479:1834" ph="{...}" />
+                <marker date="1480260920572" expanded="true" signature="2691:2820" ph="{...}" />
+                <marker date="1480260920572" expanded="true" signature="2882:2999" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearchTree.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Task02.Logic/BinarySearchTree.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="949">
+              <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
+              <folding>
+                <marker date="1480244275048" expanded="true" signature="6:47" ph="..." />
+                <marker date="1480244275048" expanded="true" signature="71:7667" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="110:7664" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="125:197" ph="/// Node of our custom tree ... " />
+                <marker date="1480244275048" expanded="true" signature="227:421" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="352:411" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="498:570" ph="/// criteria for build tree ... " />
+                <marker date="1480244275048" expanded="true" signature="674:969" ph="/// constructor, use default compare criteria of type, or external comparer; ... " />
+                <marker date="1480244275048" expanded="true" signature="1031:1625" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="1887:2007" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="2026:2172" ph="/// method of adding element to the our tree ... " />
+                <marker date="1480244275048" expanded="true" signature="2204:3221" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="3231:3431" ph="/// method contains for our tree ... " />
+                <marker date="1480244275048" expanded="true" signature="3468:3946" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="3956:4197" ph="/// method for remove element from tree ... " />
+                <marker date="1480244275048" expanded="true" signature="4232:5938" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="5990:6054" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="6106:6171" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="6223:6289" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="6350:6743" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="6805:7199" ph="{...}" />
+                <marker date="1480244275048" expanded="true" signature="7262:7658" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestClasses.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Task02.ConsoleTests/TestClasses.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <marker date="1480248175069" expanded="true" signature="6:41" ph="..." />
+                <marker date="1480248175069" expanded="true" signature="72:6172" ph="{...}" />
+                <marker date="1480248175069" expanded="true" signature="83:142" ph="/// Book class ... " />
+                <marker date="1480248175069" expanded="true" signature="233:5969" ph="{...}" />
+                <marker date="1480248175069" expanded="true" signature="256:678" ph="properties" />
+                <marker date="1480248175069" expanded="true" signature="288:453" ph="/// Book properties title, author name, genre(fantstic,detective and etc.), published year and number of edition ... " />
+                <marker date="1480248175069" expanded="true" signature="692:1089" ph="constructors" />
+                <marker date="1480248175069" expanded="true" signature="803:1065" ph="{...}" />
+                <marker date="1480248175069" expanded="true" signature="1103:1919" ph="validator" />
+                <marker date="1480248175069" expanded="true" signature="1233:1895" ph="{...}" />
+                <marker date="1480248175069" expanded="true" signature="1933:3014" ph="Equals methods" />
+                <marker date="1480248175069" expanded="true" signature="2008:2268" ph="{...}" />
+                <marker date="1480248175069" expanded="true" signature="2282:2507" ph="/// Equals method  ... " />
+                <marker date="1480248175069" expanded="true" signature="2550:2990" ph="{...}" />
+                <marker date="1480248175069" expanded="true" signature="3028:3655" ph="GetHashCode" />
+                <marker date="1480248175069" expanded="true" signature="3061:3214" ph="/// gethashcode method? base on immutable fields of book ... " />
+                <marker date="1480248175069" expanded="true" signature="3260:3631" ph="{...}" />
+                <marker date="1480248175069" expanded="true" signature="3669:4439" ph="CompareTo" />
+                <marker date="1480248175069" expanded="true" signature="3732:3919" ph="{...}" />
+                <marker date="1480248175069" expanded="true" signature="3933:4137" ph="/// default compare of two books based on title ... " />
+                <marker date="1480248175069" expanded="true" signature="4182:4415" ph="{...}" />
+                <marker date="1480248175069" expanded="true" signature="4453:5959" ph="ToString" />
+                <marker date="1480248175069" expanded="true" signature="4745:5935" ph="{...}" />
+                <marker date="1480248175069" expanded="true" signature="5994:6170" ph="{...}" />
+                <marker date="1480248175069" expanded="true" signature="6106:6164" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../Task02.ConsoleTests/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NET.W.2016.01.Okochutin.15 (5 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NET.W.2016.01.Okochutin.15 (5 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task02.ConsoleTests" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../Task02.ConsoleTests/Task02.ConsoleTests.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="Default" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../Task02.ConsoleTests/bin/Debug/Task02.ConsoleTests.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Task02.ConsoleTests/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe221546-4292-4cce-96e8-567cb211b157" name="Default" comment="" />
+      <created>1480260640762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1480260640762</updated>
+      <workItem from="1480260642618" duration="317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="317000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1934" height="1054" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16302083" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" x="1035" y="113" width="480" height="949" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39936775" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../NET.W.2016.01.Okochutin.15.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Task02.Logic/BinarySearchTree.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="949">
+          <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
+          <folding>
+            <marker date="1480244275048" expanded="true" signature="6:47" ph="..." />
+            <marker date="1480244275048" expanded="true" signature="71:7667" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="110:7664" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="125:197" ph="/// Node of our custom tree ... " />
+            <marker date="1480244275048" expanded="true" signature="227:421" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="352:411" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="498:570" ph="/// criteria for build tree ... " />
+            <marker date="1480244275048" expanded="true" signature="674:969" ph="/// constructor, use default compare criteria of type, or external comparer; ... " />
+            <marker date="1480244275048" expanded="true" signature="1031:1625" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="1887:2007" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="2026:2172" ph="/// method of adding element to the our tree ... " />
+            <marker date="1480244275048" expanded="true" signature="2204:3221" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="3231:3431" ph="/// method contains for our tree ... " />
+            <marker date="1480244275048" expanded="true" signature="3468:3946" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="3956:4197" ph="/// method for remove element from tree ... " />
+            <marker date="1480244275048" expanded="true" signature="4232:5938" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="5990:6054" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="6106:6171" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="6223:6289" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="6350:6743" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="6805:7199" ph="{...}" />
+            <marker date="1480244275048" expanded="true" signature="7262:7658" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Task02.ConsoleTests/TestClasses.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <marker date="1480248175069" expanded="true" signature="6:41" ph="..." />
+            <marker date="1480248175069" expanded="true" signature="72:6172" ph="{...}" />
+            <marker date="1480248175069" expanded="true" signature="83:142" ph="/// Book class ... " />
+            <marker date="1480248175069" expanded="true" signature="233:5969" ph="{...}" />
+            <marker date="1480248175069" expanded="true" signature="256:678" ph="properties" />
+            <marker date="1480248175069" expanded="true" signature="288:453" ph="/// Book properties title, author name, genre(fantstic,detective and etc.), published year and number of edition ... " />
+            <marker date="1480248175069" expanded="true" signature="692:1089" ph="constructors" />
+            <marker date="1480248175069" expanded="true" signature="803:1065" ph="{...}" />
+            <marker date="1480248175069" expanded="true" signature="1103:1919" ph="validator" />
+            <marker date="1480248175069" expanded="true" signature="1233:1895" ph="{...}" />
+            <marker date="1480248175069" expanded="true" signature="1933:3014" ph="Equals methods" />
+            <marker date="1480248175069" expanded="true" signature="2008:2268" ph="{...}" />
+            <marker date="1480248175069" expanded="true" signature="2282:2507" ph="/// Equals method  ... " />
+            <marker date="1480248175069" expanded="true" signature="2550:2990" ph="{...}" />
+            <marker date="1480248175069" expanded="true" signature="3028:3655" ph="GetHashCode" />
+            <marker date="1480248175069" expanded="true" signature="3061:3214" ph="/// gethashcode method? base on immutable fields of book ... " />
+            <marker date="1480248175069" expanded="true" signature="3260:3631" ph="{...}" />
+            <marker date="1480248175069" expanded="true" signature="3669:4439" ph="CompareTo" />
+            <marker date="1480248175069" expanded="true" signature="3732:3919" ph="{...}" />
+            <marker date="1480248175069" expanded="true" signature="3933:4137" ph="/// default compare of two books based on title ... " />
+            <marker date="1480248175069" expanded="true" signature="4182:4415" ph="{...}" />
+            <marker date="1480248175069" expanded="true" signature="4453:5959" ph="ToString" />
+            <marker date="1480248175069" expanded="true" signature="4745:5935" ph="{...}" />
+            <marker date="1480248175069" expanded="true" signature="5994:6170" ph="{...}" />
+            <marker date="1480248175069" expanded="true" signature="6106:6164" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Task02.ConsoleTests/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <marker date="1480260920572" expanded="true" signature="6:67" ph="..." />
+            <marker date="1480260920572" expanded="true" signature="98:3007" ph="{...}" />
+            <marker date="1480260920572" expanded="true" signature="118:3005" ph="{...}" />
+            <marker date="1480260920572" expanded="true" signature="164:2632" ph="{...}" />
+            <marker date="1480260920572" expanded="true" signature="1479:1834" ph="{...}" />
+            <marker date="1480260920572" expanded="true" signature="2691:2820" ph="{...}" />
+            <marker date="1480260920572" expanded="true" signature="2882:2999" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

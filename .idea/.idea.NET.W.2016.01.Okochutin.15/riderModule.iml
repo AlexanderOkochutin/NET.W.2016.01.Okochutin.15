@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../Task.NUnitTests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Task01.Extensions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Task01.Logic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Task02.ConsoleTests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Task02.Logic" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Task01.Extensions/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Task01.Extensions/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Task01.Logic/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Task01.Logic/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Task02.ConsoleTests/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Task02.ConsoleTests/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Task02.Logic/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Task02.Logic/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

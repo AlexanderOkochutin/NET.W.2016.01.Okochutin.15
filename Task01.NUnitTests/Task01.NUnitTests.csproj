@@ -53,13 +53,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Task01.Extensions\Task01.Extensions.csproj">
-      <Project>{3cb545c6-a377-4810-a392-aa858f3a6fee}</Project>
-      <Name>Task01.Extensions</Name>
+    <ProjectReference Include="..\Task01.Logic.Rafactoring\Task01.Logic.Refactoring.csproj">
+      <Project>{9fd0e9b4-d515-44ea-a876-d68ea8a6e848}</Project>
+      <Name>Task01.Logic.Refactoring</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Task01.Logic\Task01.Logic.csproj">
-      <Project>{494569b2-8173-4157-acab-7b9be73db73b}</Project>
-      <Name>Task01.Logic</Name>
+    <ProjectReference Include="..\Task01.Logic.RefactoringExtension\Task01.Logic.RefactoringExtension.csproj">
+      <Project>{67aeaa54-d500-4088-9c0c-4e6200ed87d3}</Project>
+      <Name>Task01.Logic.RefactoringExtension</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
