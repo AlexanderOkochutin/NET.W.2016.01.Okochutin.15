@@ -28,6 +28,7 @@ namespace Task01.Logic.Rafactoring
             set
             {
                 ValidateSet(i,j);
+                OnChange(new ElementChangeEventArgs<T>(this[i,j],value,i,j));
                 Set(i,j,value);
             }
         }
