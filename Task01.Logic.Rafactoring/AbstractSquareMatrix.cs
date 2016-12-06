@@ -10,8 +10,14 @@ using System.Xml.Schema;
 
 namespace Task01.Logic.Rafactoring
 {
+    /// <summary>
+    /// class of abstract square matrix
+    /// </summary>
     public abstract class AbstractSquareMatrix<T>:IEnumerable<T>
     {
+        /// <summary>
+        /// all data will
+        /// </summary>
         protected T[] data;
 
         public int Size { get; protected set; }
@@ -28,12 +34,12 @@ namespace Task01.Logic.Rafactoring
             set
             {
                 ValidateSet(i,j);
-                OnChange(new ElementChangeEventArgs<T>(this[i,j],value,i,j));
-                Set(i,j,value);
+                OnChange(new ElementChangeEventArgs<T>(this[i, j], value, i, j));
+                Set(i,j,value);               
             }
         }
 
-        protected void ValidateGet(int i, int j)
+        private void ValidateGet(int i, int j)
         {
             if(i >= Size || j >= Size || i < 0 || j < 0) throw new ArgumentOutOfRangeException();
         }
