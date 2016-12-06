@@ -6,14 +6,25 @@ using System.Threading.Tasks;
 
 namespace Task01.Logic.Rafactoring
 {
+    /// <summary>
+    /// class of diagonal matrix based on abstract square matrix
+    /// </summary>
     public class DiagonalMatrix<T>:AbstractSquareMatrix<T>
     {
+        /// <summary>
+        /// constructor based on size of matrix
+        /// </summary>
+        /// <param name="size"></param>
         public DiagonalMatrix(int size)
         {
             Size = size;
             data = new T[size];
         }
 
+        /// <summary>
+        /// constructor based on 
+        /// </summary>
+        /// <param name="data"></param>
         public DiagonalMatrix(T[,] data) : this(data.GetLength(0))
         {
             if (data.GetLength(0) != data.GetLength(1)) throw new ArgumentException();
